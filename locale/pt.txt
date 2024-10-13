@@ -1,0 +1,35 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_949525AB_85D6_6917_41D3_698F5D0FE095.source = https://maps.google.com/?cid=7766852467900871287
+LinkBehaviour_966B6BD1_85D1_D933_41D7_5F5584CCD1B4.source = https://maps.google.com/?cid=7766852467900871287
+LinkBehaviour_966B6BC1_85D1_D912_41DF_4A64513E88A2.source = https://www.instagram.com/brasa__carioca?igsh=MTRjYWVkam5pODB6bQ==
+LinkBehaviour_97B84261_85D7_EB12_41CA_BF88A599FD4E.source = https://www.instagram.com/brasa__carioca?igsh=MTRjYWVkam5pODB6bQ==
+
+## Media
+
+### Title
+panorama_8E754776_85B2_29FE_41D3_BF59C08726CE.label = ENTRADA
+panorama_8FCEA399_85B2_6933_41B9_BEC474DE7D7F.label = PISTA 01
+panorama_8FCBE01C_85B2_2731_41B2_564A8EC24BCD.label = PISTA 02
+panorama_8FCB9CCE_85B2_3F11_41DE_3FFCB149D306.label = PISTA 03
+panorama_8FCBE9DD_85B3_D932_41DC_098153A5B7E4.label = QUADRA
+
+## Skin
+
+### Image
+Image_94182D00_85CE_3911_41AB_D5B7D51D1CA8_mobile.url = skin/Image_94182D00_85CE_3911_41AB_D5B7D51D1CA8_mobile_pt.png
+Image_94182D00_85CE_3911_41AB_D5B7D51D1CA8.url = skin/Image_94182D00_85CE_3911_41AB_D5B7D51D1CA8_pt.png
+Image_948384BF_85D2_6F6E_41DF_F5F64F773E11_mobile.url = skin/Image_948384BF_85D2_6F6E_41DF_F5F64F773E11_mobile_pt.png
+Image_948384BF_85D2_6F6E_41DF_F5F64F773E11.url = skin/Image_948384BF_85D2_6F6E_41DF_F5F64F773E11_pt.png
+Image_948E45E5_85CE_2912_41DF_CFC52B8790C8_mobile.url = skin/Image_948E45E5_85CE_2912_41DF_CFC52B8790C8_mobile_pt.png
+Image_948E45E5_85CE_2912_41DF_CFC52B8790C8.url = skin/Image_948E45E5_85CE_2912_41DF_CFC52B8790C8_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Brasa Carioca
